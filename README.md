@@ -6,7 +6,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ---
 
-## 📑 Table of Contents
+## Fast Travel
 - [About Me](#about-me)
 - [Education](#education)
 - [Skills](#skills)
@@ -73,4 +73,4 @@ Brief introduction about yourself — your professional interests, goals, and wh
 
 ---
 
-Thanks for visiting my site!
+[Back to Top](#fast-travel)
