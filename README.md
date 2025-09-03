@@ -34,7 +34,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 - [LinkedIn](https://www.linkedin.com/in/aadi-sudan-66b183204)  
 - [GitHub](https://github.com/Aadi-Sudan)  
-- [Email](aadisudan123@gmail.com)  
+- Email: aadisudan123@gmail.com  
 
 ---
 
