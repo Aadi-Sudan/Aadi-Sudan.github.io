@@ -7,41 +7,41 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 ---
 
 ## 📑 Table of Contents
-- [About Me](#-about-me)
-- [Photo](#-photo)
-- [Projects](#-projects)
-- [Experience](#-experience)
-- [Education](#-education)
-- [Skills](#-skills)
-- [Connect](#-connect-with-me)
+- [About Me](#about-me)
+- [Education](#education)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Projects](#projects)
+- [Contact Info](#Connect-with-Me)
 
 ---
 
-## 👤 About Me
+## About Me
 Brief introduction about yourself — your professional interests, goals, and what makes you unique.
 
----
-
-## 🖼 Photo
 ![My Photo](your-photo.jpg)  
 *(Replace `your-photo.jpg` with the path/URL to your image, e.g., `images/me.jpg`)*
 
 ---
 
-## 🚀 Projects
+## Education
 
-- **[Project Name 1](https://github.com/yourusername/project1)**  
-  Short one-line description of the project.
-
-- **[Project Name 2](https://github.com/yourusername/project2)**  
-  Short description.
-
-- **[Project Name 3](https://github.com/yourusername/project3)**  
-  Short description.
+- **Degree, Major** — University Name *(Year – Year)*  
+  - Any honors, GPA (optional), or notable coursework  
+- **Certification / Bootcamp** — Provider *(Year)*  
 
 ---
 
-## 💼 Experience
+## Skills
+
+- **Programming:** Python, SQL, R, JavaScript  
+- **ML / AI:** PyTorch, TensorFlow, scikit-learn  
+- **Data:** Pandas, NumPy, Spark, PostgreSQL  
+- **Other:** Git, Docker, AWS, Streamlit  
+
+---
+
+## Experience
 
 - **Job Title – Company** (Date – Date)  
   • Key responsibility or achievement  
@@ -52,20 +52,16 @@ Brief introduction about yourself — your professional interests, goals, and wh
 
 ---
 
-## 🎓 Education
+## Projects
 
-- **Degree, Major** — University Name *(Year – Year)*  
-  - Any honors, GPA (optional), or notable coursework  
-- **Certification / Bootcamp** — Provider *(Year)*  
+- **[Project Name 1](https://github.com/yourusername/project1)**  
+  Short one-line description of the project.
 
----
+- **[Project Name 2](https://github.com/yourusername/project2)**  
+  Short description.
 
-## 🛠 Skills
-
-- **Programming:** Python, SQL, R, JavaScript  
-- **ML / AI:** PyTorch, TensorFlow, scikit-learn  
-- **Data:** Pandas, NumPy, Spark, PostgreSQL  
-- **Other:** Git, Docker, AWS, Streamlit  
+- **[Project Name 3](https://github.com/yourusername/project3)**  
+  Short description.
 
 ---
 
