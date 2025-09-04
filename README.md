@@ -19,7 +19,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Education
 
-- **Santa Clara University** *(2024 – 2026)*  
+- **Santa Clara University** *(2022 – 2026)*  
   - Bachelor's of Science in Computer Science
   - Minor in Mathematics
 
