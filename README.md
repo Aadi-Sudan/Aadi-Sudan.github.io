@@ -43,7 +43,8 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Created analysis pipeline to automate data cleaning and produce 5+ graphs for each occupation, translating complex data sets into clear visualizations. Visualizations include logistic regression, double-bar charts, and over-under comparisons to official BLS data, as well as wordclouds for name repetition
   - Contributions can be found at project [repository](https://github.com/scuhci/genai-bias)
 
-- **AI Engineer - Valverus** (Nov. 2024 – Present)  
+- **AI Engineer - Valverus** (Nov. 2024 – Present)
+  - About the company: Valverus is a consulting startup in San Jose, CA that targets private equity firms with AI-informed insights into future investments
   - Engineered and Dockerized a RAG agent incorporating Ollama’s LLM and vector embeddings to generate actionable insights for external industry investments, creating 1200-character clusters for model training
   - Developed web scraper using DuckDuckGo Search library, Beautiful Soup, and ArXiv API to scrape 100+ articles and research papers weekly on external industries for providing RAG agent with textual data  
 
