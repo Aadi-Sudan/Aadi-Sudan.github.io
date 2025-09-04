@@ -31,17 +31,27 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Plotly, Matplotlib, Tidyverse, PEFT (LoRA), Bitsandbytes, Transformers, FastAPI, Flask  
 - **Technologies:** AWS S3, DynamoDB, EC2, SageMaker, Docker, Git, Tableau, PowerBI, Excel, Ollama, Agentic AI, RAG, Recommendation Algorithms, CNNs, Regression and Trees  
 - **Coursework:** Data Structures & Algorithms, Linear Algebra, Applied Probability, Cryptography, Data Mining, Differential Equations, Applied ML, Discrete Math
+- **Certifications:** AWS Certified Cloud Practicioner
 
 ---
 
 ## Experience
 
-- **Job Title – Company** (Date – Date)  
-  • Key responsibility or achievement  
-  • Another highlight  
+- **Research Intern – SCU HCI Lab** (Dec. 2024 – Present)  
+  • Applied data cleaning and feature engineering techniques to analyze the distribution of gender and race across 40+ occupations each with 10k+ generated personas, reinforcing robust statistical modeling insights into generative AI bias
+  • Created and implemented a data pipeline to batch-generate 400k+ personas from ChatGPT, Gemini, Mistral, and Deepseek, saving over 150 hours of manpower and generation efficiency and reducing data gathering costs by over 40%
+  • Created analysis pipeline to automate data cleaning and produce 5+ graphs for each occupation, translating complex data sets into clear visualizations. Visualizations include logistic regression, double-bar charts, and over-under comparisons to official BLS data, as well as wordclouds for name repetition
+  • Contributions can be found at project [repository](https://github.com/scuhci/genai-bias)
 
-- **Internship Title – Company** (Date – Date)  
-  • Key responsibility or project  
+- **AI Engineer - Valverus** (Nov. 2024 – Present)  
+  • Engineered and Dockerized a RAG agent incorporating Ollama’s LLM and vector embeddings to generate actionable insights for external industry investments, creating 1200-character clusters for model training
+  • Developed web scraper using DuckDuckGo Search library, Beautiful Soup, and ArXiv API to scrape 100+ articles and research papers weekly on external industries for providing RAG agent with textual data  
+
+- **Workshop Coordinator – SCU AI Collaborate** (Oct. 2024 – Present)  
+  • Organized logistics for a hackathon in conjuncture with Adobe Express attended by 100+ participants and 10+ professional judges and officials from Adobe
+  • Preparing interactive presentations for club workshops attended weekly by 50+ people
+  • Leading guest speaker events consisting of lectures covering topics such as Agentic AI, AI in business, and more
+  • Information on club events can be found at club [website](https://www.scuaiclub.com)
 
 ---
 
