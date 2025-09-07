@@ -58,7 +58,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 ## Projects
 
 - CraveQuest (Ongoing)
-**Stack:** Flask, Flutter, Firebase Admin SDK, RESTful API, PyTorch, NumPy/Pandas, TorchVision
+  - **Stack:** Flask, Flutter, Firebase Admin SDK, RESTful API, PyTorch, NumPy/Pandas, TorchVision
   - Designing a multi-platform Flutter app that allows users to swipe left or right on restaurants and recieve recommendations for where to dine
   - Implemented a scalable authentication and session management system using Flask, Google Firebase, and RESTful APIs, enabling secure user registration, login, and persistent session tracking across distributed clients
   - Optimized database schema and queries in Firestore by separating users and sessions collections with partitioned keys for user and session ID, reducing lookup latency by 40%
