@@ -1,6 +1,5 @@
 # Hi, I'm Aadi Sudan
 
-Welcome to my personal website!  
 I’m passionate about data science, analysis, engineering, and AI/ML.  
 Here, you’ll find my projects, experience, and ways to connect with me.
 
@@ -58,20 +57,15 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Projects
 
-- Food Recommendation App (Ongoing)
-**Stack:** Python, PyTorch, Flask/FastAPI, Flutter, NumPy/Pandas, TorchVision, (Food-101 to start), cosine similarity  
-**What it is:** Users upload a food photo → a **CNN** predicts the **food category** and **sensory attributes** (e.g., spicy/crispy) → the app recommends **similar restaurants/dishes** using embedding similarity.
-
-**Highlights**
-- Built an image-upload flow (Flutter → Python backend) with secure file handling and batched inference.
-- Started with a **custom CNN** trained on **Food-101**; designing a **multi-head classifier** for both category and texture attributes.
-- Created a similarity pipeline: extract penultimate-layer embeddings → compute **cosine similarity** against a restaurant/dish index → return top-k recommendations.
-- Modularized data loaders, augmentations, and training loops for reproducibility.
-
-**Impact / Next Steps**
-- Moves beyond static menus to **visual food discovery**.
-- Roadmap: add **multi-label attributes**, collect **own dataset**, integrate **restaurant APIs**, and A/B test recs vs. popularity baselines.
-
+- CraveQuest (Ongoing)
+**Stack:** Flask, Flutter, Firebase Admin SDK, RESTful API, PyTorch, NumPy/Pandas, TorchVision
+  - Designing a multi-platform Flutter app that allows users to swipe left or right on restaurants and recieve recommendations for where to dine
+  - Implemented a scalable authentication and session management system using Flask, Google Firebase, and RESTful APIs, enabling secure user registration, login, and persistent session tracking across distributed clients
+  - Optimized database schema and queries in Firestore by separating users and sessions collections with partitioned keys for user and session ID, reducing lookup latency by 40%
+  - Built secure password handling and credential validation pipelines with real-time Firestore queries and tokenized session IDs, preventing duplicate sessions and improving system reliability
+  - Incorporated Google Maps API to allow users to see their liked restaurants on a map relative to their current location
+  - Designed a CNN to classify images of food uploaded by users and recommend restaurants that might serve those dishes. CNN achieved a validation accuracy of 0.89 using Adam optimizer and cosine similarity
+  - Project [repository](https://github.com/mikewen8/Food_app)
 
 - **[Project Name 2](https://github.com/yourusername/project2)**  
   Short description.
