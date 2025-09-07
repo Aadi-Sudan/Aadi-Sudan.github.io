@@ -57,7 +57,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Projects
 
-- CraveQuest (Ongoing)
+- **CraveQuest (Ongoing)**
   - **Stack:** Flask, Flutter, Firebase Admin SDK, RESTful API, PyTorch, NumPy/Pandas, TorchVision
   - Designing a multi-platform Flutter app that allows users to swipe left or right on restaurants and recieve recommendations for where to dine
   - Implemented a scalable authentication and session management system using Flask, Google Firebase, and RESTful APIs, enabling secure user registration, login, and persistent session tracking across distributed clients
@@ -67,8 +67,15 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Designed a CNN to classify images of food uploaded by users and recommend restaurants that might serve those dishes. CNN achieved a validation accuracy of 0.89 using Adam optimizer and cosine similarity
   - Project [repository](https://github.com/mikewen8/Food_app)
 
-- **[Project Name 2](https://github.com/yourusername/project2)**  
-  Short description.
+- **Biomedical TinyLlama**
+  - **Stack:**
+  - 
+
+- **Data Warehouse**
+  - **Stack:** PostgreSQL
+  - Designed and implemented a 3-tier data warehouse using PostgreSQL for end-to-end ETL and analytics
+  - Built a star schema with fact and dimension tables to support efficient BI querying and reporting
+  - Cleaned, transformed, and modeled raw CSV data to generate insights on sales, customers, and product trends
 
 - **[Project Name 3](https://github.com/yourusername/project3)**  
   Short description.
