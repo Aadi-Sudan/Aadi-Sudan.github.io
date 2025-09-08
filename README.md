@@ -11,6 +11,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 - [Experience](#experience)
 - [Projects](#projects)
 - [Contact Info](#connect-with-me)
+
 ---
 
 ## Education
