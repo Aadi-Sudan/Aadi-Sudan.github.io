@@ -3,7 +3,7 @@
 I’m passionate about data science, analysis, engineering, and AI/ML.  
 Here, you’ll find my projects, experience, and ways to connect with me.
 
-![My Photo](your-photo.jpg)  
+![My Photo](assets/testme-removebg-preview.jpg)  
 *(Replace `your-photo.jpg` with the path/URL to your image, e.g., `images/me.jpg`)*
 
 ---
