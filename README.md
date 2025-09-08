@@ -68,7 +68,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Project [repository](https://github.com/mikewen8/Food_app)
 
 - **Biomedical TinyLlama**
-  - **Stack:** 
+  - **Stack:** TinyLlama 1.1B, LoRA, PEFT, Bitsandbytes, PyTorch, Hugging Face, FastAPI, HTML/CSS/JS
   - Fine-tuned open-source TinyLlama 1.1B model with LoRA, PEFT, and Bitsandbytes on a biomedical instruction-response dataset for clinical text generation
   - Achieved ROUGE-Lsum score of 0.24 and BERT F1 score of 0.89, demonstrating accurate medical understanding and coherent, systemic text generation
   - Implemented FastAPI backend and HTML/CSS/JS frontend to utilize fine-tuned model as a chatbot, offering real-time responses to user queries
@@ -79,8 +79,25 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Built a star schema with fact and dimension tables to support efficient BI querying and reporting
   - Cleaned, transformed, and modeled raw CSV data to generate insights on sales, customers, and product trends
 
-- **[Project Name 3](https://github.com/yourusername/project3)**  
-  Short description.
+- **Social Network**  
+  - **Stack:** QT, Python, Linked Lists, Trees
+  - 
+
+- **New York House Price Predictor**  
+  - **Stack:**
+  - 
+
+- **Reddit Report**  
+  - **Stack:**
+  - 
+
+- **Dungeon Crawler**  
+  - **Stack:**
+  - 
+
+- **Tech Support**  
+  - **Stack:**
+  - 
 
 ---
 
