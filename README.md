@@ -68,8 +68,10 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Project [repository](https://github.com/mikewen8/Food_app)
 
 - **Biomedical TinyLlama**
-  - **Stack:**
-  - 
+  - **Stack:** 
+  - Fine-tuned open-source TinyLlama 1.1B model with LoRA, PEFT, and Bitsandbytes on a biomedical instruction-response dataset for clinical text generation
+  - Achieved ROUGE-Lsum score of 0.24 and BERT F1 score of 0.89, demonstrating accurate medical understanding and coherent, systemic text generation
+  - Implemented FastAPI backend and HTML/CSS/JS frontend to utilize fine-tuned model as a chatbot, offering real-time responses to user queries
 
 - **Data Warehouse**
   - **Stack:** PostgreSQL
