@@ -1,5 +1,3 @@
-# Hi, I'm Aadi Sudan
-
 I’m passionate about data science, analysis, engineering, and AI/ML.  
 Here, you’ll find my projects, experience, and ways to connect with me.
 
