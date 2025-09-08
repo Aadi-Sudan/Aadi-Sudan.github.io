@@ -26,7 +26,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 - **Programming Languages:** Python, R, SQL, JavaScript, React.js, HTML, CSS, Bash, Markdown  
 - **Frameworks/Libraries:** PyTorch, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Plotly, Matplotlib, Tidyverse, PEFT (LoRA), Bitsandbytes, Transformers, FastAPI, Flask  
-- **Technologies:** AWS S3, DynamoDB, EC2, SageMaker, Docker, Git, Tableau, PowerBI, Excel, Ollama, Agentic AI, RAG, Recommendation Algorithms, CNNs, Regression and Trees  
+- **Technologies:** AWS S3, DynamoDB, EC2, SageMaker, Bedrock, Docker, Git, Tableau, PowerBI, Excel, Ollama, Agentic AI, RAG, Recommendation Algorithms, CNNs, Regression and Trees  
 - **Coursework:** Data Structures & Algorithms, Linear Algebra, Applied Probability, Cryptography, Data Mining, Differential Equations, Applied ML, Discrete Math
 - **Certifications:** AWS Certified Cloud Practicioner
 
