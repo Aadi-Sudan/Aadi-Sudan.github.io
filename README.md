@@ -1,7 +1,7 @@
 Hi, I'm Aadi! I’m passionate about data science, analysis, engineering, and AI/ML.  
 Here, you’ll find my projects, experience, and ways to connect with me.
 
-![My Photo](assets/View recent photos.jpeg)
+![My Photo](assets/img.jpeg)
 
 ---
 
