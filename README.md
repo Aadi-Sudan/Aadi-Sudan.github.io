@@ -70,12 +70,14 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Fine-tuned open-source TinyLlama 1.1B model with LoRA, PEFT, and Bitsandbytes on a biomedical instruction-response dataset for clinical text generation
   - Achieved ROUGE-Lsum score of 0.24 and BERT F1 score of 0.89, demonstrating accurate medical understanding and coherent, systemic text generation
   - Implemented FastAPI backend and HTML/CSS/JS frontend to utilize fine-tuned model as a chatbot, offering real-time responses to user queries
+  - Project [repository](https://github.com/Aadi-Sudan/BiomedicalTinyllama)
 
 - **Data Warehouse**
   - **Stack:** PostgreSQL
   - Designed and implemented a 3-tier data warehouse using PostgreSQL for end-to-end ETL and analytics
   - Built a star schema with fact and dimension tables to support efficient BI querying and reporting
   - Cleaned, transformed, and modeled raw CSV data to generate insights on sales, customers, and product trends
+  - Project [repository](https://github.com/Aadi-Sudan/SQL-Data-Warehouse-Project)
 
 - **Social Network**  
   - **Stack:** QT, C++, Linked Lists, Trees
@@ -84,29 +86,34 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Implemented file persistence with robust read/write functionality to users.txt and posts.txt, ensuring that privacy levels, friendships, and posts are preserved between sessions
   - Created an interactive QT interface with dynamic tables and labels for friends, posts, and suggested friends; integrated a dropdown menu and button workflow for updating privacy settings
   - Designed and optimized a friend recommendation algorithm using graph traversal and scoring, improving engagement by suggesting relevant connections
+  - Project [repository](https://github.com/Aadi-Sudan/social-network)
 
 - **New York House Price Predictor**  
   - **Stack:** Jupyter, Python, Data Analysis, Feature Engineering, Regression
   - Implemented polynomial features to build a linear regression-based price predictor for housing in New York based on a dataset of over 50,000 entries
   - Users can input values for square footage, room count, and borough of the city to recieve an estimated price for the estate
   - Utilized linear regression, data cleaning, and feature engineering to achieve a precision value of 87%
+  - Project [repository](https://github.com/Aadi-Sudan/New-York-Housing)
 
 - **Reddit Report**  
   - **Stack:** RStudio, RMarkdown, Data Analysis
   - Analyzed a labeled dataset of roughly 50,000 different Reddit comments in order to gauge widespread response to sarcastic vs non-sarcastic comments
   - Wrote a data report on findings, including graphs and in-depth statistical analyses to back up assertations
+  - Project [repository](https://github.com/Aadi-Sudan/Reddit-Report)
 
 - **Dungeon Crawler**  
   - **Stack:** C++
   - Designed an object-oriented text-based dungeon crawler themed after the popular Dungeons and Dragons game
   - Game can support up to 4 players. Players are tasked with resource management in order to use a built-in shop mechanic to progress the dungeon
-  - Dynamic events are randomly generated for the player as they progress through the adventure, and information on players, bosses, the map, and random events are each defined within in-depth classes   
+  - Dynamic events are randomly generated for the player as they progress through the adventure, and information on players, bosses, the map, and random events are each defined within in-depth classes
+  - Project [repository](https://github.com/Aadi-Sudan/Dungeon-Crawler)
 
 - **Tech Support**  
   - **Stack:** Python, discord.py, OpenAI API, pdf2image
   - Implemented a Python-based Discord chatbot integrating OpenAI's API to use the GPT-3 model to provide conversational AI responses directly in chat
   - Utilized discord.py, OpenAI API, and image-processing libraries (PIL, pdf2image) to enable advanced file handling and natural language queries
   - Delivered an interactive bot that extended Discord’s native search with semantic AI-powered retrieval, improving usability for community-driven knowledge sharing
+  - Project [repository](https://github.com/Aadi-Sudan/Tech-Support)
 
 ---
 
