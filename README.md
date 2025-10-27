@@ -39,7 +39,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Created and implemented a data pipeline to batch-generate 400k+ personas from ChatGPT, Gemini, Mistral, and Deepseek, saving over 150 hours of manpower and generation efficiency and reducing data gathering costs by over 40%
   - Created analysis pipeline to automate data cleaning and produce 5+ graphs for each occupation, translating complex data sets into clear visualizations. Visualizations include logistic regression, double-bar charts, and over-under comparisons to official BLS data, as well as wordclouds for name repetition
   - Contributions can be found at project [repository](https://github.com/scuhci/genai-bias)
-  - Published 24-page research paper to [ArXiv](https://arxiv.org/abs/2510.21011)
+  - Published 29-page research paper to [ArXiv](https://arxiv.org/abs/2510.21011)
 
 - **AI Engineer - Valverus** (Nov. 2024 – Present)
   - About the company: Valverus is a consulting startup in San Jose, CA that targets private equity firms with AI-informed insights into future investments
@@ -49,6 +49,8 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 - **Workshop Coordinator – SCU AI Collaborate** (Oct. 2024 – Present)
   - Organized logistics for a hackathon in conjuncture with Adobe Express attended by 100+ participants and 10+ professional judges and officials from Adobe
   - Preparing interactive presentations for club workshops attended weekly by 50+ people
+  - Headed fundraising, sponsorship efforts (15k), coordinated with the university board to support major events
+  - Hosted AI Summit, SCU’s largest event, drawing over 700 student and industry attendees 
   - Leading guest speaker events consisting of lectures covering topics such as Agentic AI, AI in business, and more
   - Information on club events can be found at club [website](https://www.scuaiclub.com)
 
