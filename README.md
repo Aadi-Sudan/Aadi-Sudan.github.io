@@ -66,7 +66,6 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Built secure password handling and credential validation pipelines with real-time Firestore queries and tokenized session IDs, preventing duplicate sessions and improving system reliability
   - Incorporated Google Maps API to allow users to see their liked restaurants on a map relative to their current location
   - Designed a CNN to classify images of food uploaded by users and recommend restaurants that might serve those dishes. CNN achieved a validation accuracy of 0.89 using Adam optimizer and cosine similarity
-  - Project [repository](https://github.com/mikewen8/Food_app)
 
 - **Biomedical TinyLlama**
   - **Stack:** TinyLlama 1.1B, LoRA, PEFT, Bitsandbytes, PyTorch, Hugging Face, FastAPI, HTML/CSS/JS
