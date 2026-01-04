@@ -74,6 +74,11 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Implemented FastAPI backend and HTML/CSS/JS frontend to utilize fine-tuned model as a chatbot, offering real-time responses to user queries
   - Project [repository](https://github.com/Aadi-Sudan/BiomedicalTinyllama)
 
+- **SCU Basketball Analysis**
+  - **Stack:** Python, OpenCV, Roboflow, Object Detection, Homography
+  - Leveraged computer vision to track players and basketball movement in SCU game footage
+  - Implementing homography and keypoint detection to analyze player positioning and movement
+
 - **Data Warehouse**
   - **Stack:** PostgreSQL
   - Designed and implemented a 3-tier data warehouse using PostgreSQL for end-to-end ETL and analytics
