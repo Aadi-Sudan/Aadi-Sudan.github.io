@@ -102,6 +102,24 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Utilized linear regression, data cleaning, and feature engineering to achieve a precision value of 87%
   - Project [repository](https://github.com/Aadi-Sudan/New-York-Housing)
 
+- **Job Requirements Analysis**
+  - **Stack: Jupyter, Python, Data Analysis, Data Mining, Web Scraping, ReGex, Data Cleaning, Association Rule Mining**
+  - 
+  - Created for CS 185 (Data Mining) Final Project
+  - Project [repository](https://github.com/Aadi-Sudan/Job-Requirements-Analysis)
+
+- **Diabetes Predictions**
+  - **Stack: Jupyter, Python, Machine Learning, Grid Search, Hyperparameter Optimization, Neural Net, Random Forest, Logistic Regression, LinearSVC, Decision Tree, K-NN, Gaussian Naive-Bayes**
+  - 
+  - Created for CS 184 (Applied Machine Learning) Final Project
+  - Project [repository](https://github.com/Aadi-Sudan/Diabetes-Prediction)
+
+- **Student Performance Analysis**
+  - **Stack: Jupyter, Python, Data Analysis, Data Visualization, Data Cleaning, Linear Regression**
+  - 
+  - Created for CS 183 (Data Science) Final Project
+  - Project [repository](https://github.com/Aadi-Sudan/Student-Performance-Analysis)
+
 - **Reddit Report**  
   - **Stack:** RStudio, RMarkdown, Data Analysis
   - Analyzed a labeled dataset of roughly 50,000 different Reddit comments in order to gauge widespread response to sarcastic vs non-sarcastic comments
