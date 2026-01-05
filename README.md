@@ -104,19 +104,27 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 - **Job Requirements Analysis**
   - **Stack: Jupyter, Python, Data Analysis, Data Mining, Web Scraping, ReGex, Data Cleaning, Association Rule Mining**
-  - 
+  - Created a web scraper to collect up to 6k+ job postings and requirements from Simplify's New Grad Roles Github repository, focusing on data and software-related roles
+  - Utilized ReGex and text extraction to clean data and identify most frequently appearing skills, years of experience, and degree requirements within the posting
+  - Conducted association rule mining to identify the relationship between various requirements
+  - Wrote a report to highlight findings
   - Created for CS 185 (Data Mining) Final Project
   - Project [repository](https://github.com/Aadi-Sudan/Job-Requirements-Analysis)
 
 - **Diabetes Predictions**
-  - **Stack: Jupyter, Python, Machine Learning, Grid Search, Hyperparameter Optimization, Neural Net, Random Forest, Logistic Regression, LinearSVC, Decision Tree, K-NN, Gaussian Naive-Bayes**
-  - 
+  - **Stack: Jupyter, Python, Machine Learning, Grid Search, Neural Net, Random Forest, Logistic Regression, LinearSVC, Decision Tree, K-NN, Gaussian Naive-Bayes**
+  - Implemented a variety of predictive models trained on a UCI dataset to analyze probability of type-2 diabetes manifesting in a user given certain biomedical information
+  - Conducted grid search to optimize hyperparameters for each individual model and compared optimal models utilizing accuracy and k-fold cross-validation metrics. The best-performing model was a neural net with accuracy of 84.6%
+  - Wrote a report to highlight findings
   - Created for CS 184 (Applied Machine Learning) Final Project
   - Project [repository](https://github.com/Aadi-Sudan/Diabetes-Prediction)
 
 - **Student Performance Analysis**
   - **Stack: Jupyter, Python, Data Analysis, Data Visualization, Data Cleaning, Linear Regression**
-  - 
+  - Conducted statistical analysis on a Kaggle dataset highlighting student performance given metrics such as financial stability, parental involvement, and more
+  - Cleaned data and visualized relationship between different features to highlight the most relevant to predicting final grades
+  - Optimized a linear regression model to predict final grades given most relevant features. The model achieved testing accuracy of 99.1% with root mean squared error of 0.101
+  - Wrote a report to highlight findings
   - Created for CS 183 (Data Science) Final Project
   - Project [repository](https://github.com/Aadi-Sudan/Student-Performance-Analysis)
 
