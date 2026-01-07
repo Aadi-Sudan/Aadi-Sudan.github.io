@@ -33,7 +33,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Experience
 
-- **Research Intern – SCU HCI Lab** (Dec. 2024 – Present)  
+- **Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
   - Applied data cleaning and feature engineering techniques to analyze the distribution of gender and race across 40+ occupations each with 10k+ generated personas, reinforcing robust statistical modeling insights into generative AI bias
   - Created and implemented a data pipeline to batch-generate 400k+ personas from ChatGPT, Gemini, Mistral, and Deepseek, saving over 150 hours of manpower and generation efficiency and reducing data gathering costs by over 40%
   - Created analysis pipeline to automate data cleaning and produce 5+ graphs for each occupation, translating complex data sets into clear visualizations. Visualizations include logistic regression, double-bar charts, and over-under comparisons to official BLS data, as well as wordclouds for name repetition
