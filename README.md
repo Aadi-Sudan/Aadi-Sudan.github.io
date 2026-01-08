@@ -33,12 +33,11 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Experience
 
-- **Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
+- **Data Scientist, Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
   - Applied data cleaning and feature engineering techniques to analyze the distribution of gender and race across 40+ occupations each with 10k+ generated personas, reinforcing robust statistical modeling insights into generative AI bias
   - Created and implemented a data pipeline to batch-generate 400k+ personas from ChatGPT, Gemini, Mistral, and Deepseek, saving over 150 hours of manpower and generation efficiency and reducing data gathering costs by over 40%
-  - Created analysis pipeline to automate data cleaning and produce 5+ graphs for each occupation, translating complex data sets into clear visualizations. Visualizations include logistic regression, double-bar charts, and over-under comparisons to official BLS data, as well as wordclouds for name repetition
+  - Publication: [Race and Gender in LLM-Generated Personas: A Large-Scale Audit of 41 Occupations](doi.org/10.48550/arXiv.2510.21011). Awaiting professional review.
   - Contributions can be found at project [repository](https://github.com/scuhci/genai-bias)
-  - Published 29-page research paper to [ArXiv](https://arxiv.org/abs/2510.21011)
 
 - **AI Engineer - Valverus** (Nov. 2024 – Aug. 2025)
   - About the company: Valverus is a consulting startup in San Jose, CA that targets private equity firms with AI-informed insights into future investments
@@ -46,11 +45,9 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Developed web scraper using DuckDuckGo Search library, Beautiful Soup, and ArXiv API to scrape 100+ articles and research papers weekly on external industries for providing RAG agent with textual data  
 
 - **Workshop Coordinator – SCU AI Collaborate** (Oct. 2024 – Dec. 2025)
-  - Organized logistics for a hackathon in conjuncture with Adobe Express attended by 100+ participants and 10+ professional judges and officials from Adobe
-  - Prepared interactive presentations for club workshops attended weekly by 50+ people
-  - Headed fundraising, sponsorship efforts (15k), coordinated with the university board to support major events
-  - Hosted AI Summit, SCU’s largest event, drawing over 700 student and industry attendees 
-  - Led guest speaker events consisting of lectures covering topics such as Agentic AI, AI in business, and more
+  - Communicated logistics with Adobe and Nvidia officials to organize 3+ hackathons attended by 100+ participants
+  - Hosted the AI Summit, SCU’s largest event, drawing over 700 student and industry attendees
+  - Led fundraising, sponsorship efforts (15k), coordinated with the university board to support major events
   - Information on club events can be found at club [website](https://www.scuaiclub.com)
 
 ---
