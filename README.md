@@ -33,7 +33,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Experience
 
-- **Data Scientist, Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
+- **Data Analyst, Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
   - Applied data cleaning and feature engineering techniques to analyze the distribution of gender and race across 40+ occupations each with 10k+ generated personas, reinforcing robust statistical modeling insights into generative AI bias
   - Created and implemented a data pipeline to batch-generate 400k+ personas from ChatGPT, Gemini, Mistral, and Deepseek, saving over 150 hours of manpower and generation efficiency and reducing data gathering costs by over 40%
   - Publication: [Race and Gender in LLM-Generated Personas: A Large-Scale Audit of 41 Occupations](https://doi.org/10.48550/arXiv.2510.21011). Awaiting professional review.
