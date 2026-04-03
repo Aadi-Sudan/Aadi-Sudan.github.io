@@ -34,8 +34,8 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 ## Experience
 
 - **Computer Science Intern – FairwAI** (March 2026 – Present)  
-  - Developed LLM evaluation framework to simulate hiring decisions, run permutation-based candidate ranking, and implement RAG-based counterfactual testing to detect hallucinations and quantify bias via flip-rate scoring
-  - Built end-to-end resume parsing and analysis pipeline to extract relevant information from 1k+ resumes, reducing LLM token input by over 80%
+  - Built resume parsing and analysis pipeline to extract relevant information from 1k+ resumes, reducing  token input by 80% while preserving key features
+  - Developed an AI evaluation framework to simulate hiring decisions, run permutation-based candidate ranking, and implement RAG-based counterfactual testing to detect hallucinations and quantify bias via flip-rate scoring, supporting compliance with emerging AI hiring regulations such as NYC Local Law 144
 
 - **Data Analyst, Researcher – SCU HCI Lab** (Dec. 2024 – Present)  
   - Applied data cleaning and feature engineering techniques to analyze the distribution of gender and race across 40+ occupations each with 10k+ generated personas, reinforcing robust statistical modeling insights into generative AI bias
