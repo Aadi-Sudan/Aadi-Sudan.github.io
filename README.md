@@ -27,7 +27,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 - **Programming Languages:** Python, R, SQL, MySQL, PostgreSQL, C++, Java, JavaScript, React.js, HTML, CSS, Bash, Markdown  
 - **Technologies/Frameworks:** PyTorch, TensorFlow, Keras, SKLearn, Pandas, NumPy, Plotly, Matplotlib, Tidyverse, PEFT (LoRA), Bitsandbytes, Transformers, FastAPI, AWS, DynamoDB, SageMaker, Docker, Git, Tableau, PowerBI, Excel, Google Firebase, Lambda, Kubernetes, LangChain, Selenium  
 - **Coursework:** Software Engineering, Data Structures & Algorithms, Data Science, Applied Machine Learning, Data Mining, Linear Algebra, Applied Probability and Statistics, Cryptography, Differential Equations, Discrete Math, Optimization
-- **Certifications:** AWS Certified Cloud Practicioner
+- **Certifications:** AWS Certified Cloud Practicioner, [Google AI Essentials](https://coursera.org/share/cf48e32919ecc68bea4c86b18d27abdc)
 
 ---
 
