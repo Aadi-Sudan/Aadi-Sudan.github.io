@@ -33,7 +33,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Experience
 
-- **FairwAI — Software & ML Engineer Intern** (New York, NY (Remote) | March 2026 – Present)  
+- **FairwAI — Software & ML Engineer Intern** | New York, NY (Remote) | March 2026 – Present  
   - Designed and deployed an end-to-end NLP pipeline in Python to ingest, parse, and featurize 1,000+ applicant resumes, reducing processing costs by 80% and cutting manual preparation time by 60% through spaCy and regex-based feature extraction. Architected an async resume parsing system achieving 90%+ code coverage via pytest and a 45% reduction in pipeline runtime
   - Created an AI evaluation framework using permutation-based candidate ranking and RAG-based counterfactual testing to detect hallucinations and quantify bias via flip-rate scoring, supporting compliance with NYC Local Law 144 and EU AI Act guidelines
   - Built an on-device computer vision pipeline in Swift — YOLOv8n (Core ML / Apple Neural Engine) → ByteTrack multi-object tracker → Protobuf event bus — achieving 70–90 fps inference at 720p on iPhone 16 Pro, confirmed via Xcode Instruments profiling
@@ -41,14 +41,14 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Designed a Protobuf event schema (PersonEvent/FrameEvent) consumed by two downstream teams, with forward-compatible enum typing and resolution-independent normalized coordinates; extended a shared Python evaluation harness to benchmark the Core ML model at mAP@0.5 of 0.366 on a 500-image indoor test set
   - Instrumented a 15-minute on-device thermal and throughput probe, logging sustained FPS and iOS thermal state transitions to CSV; confirmed 76–77 fps average with no throttling on iPhone 16 Pro, establishing a performance baseline for mitigation work
 
-- **SCU HCI Lab — Data Engineer & Undergraduate Researcher** (Santa Clara, CA | Dec. 2024 – Jun. 2026)  
+- **SCU HCI Lab — Data Engineer & Undergraduate Researcher** | Santa Clara, CA | Dec. 2024 – Jun. 2026  
   - Engineered large-scale batch pipelines generating 400,000+ synthetic personas across 4 commercial LLMs (ChatGPT, Gemini, Mistral, DeepSeek), eliminating 150+ hours of manual analysis and enabling the largest known academic audit of demographic bias across 41 occupations
   - Designed statistical analysis frameworks in Python and R to quantify representation gaps and surface statistically significant bias signals across protected demographic attributes, producing publication-ready visualizations
   - Developed [an interactive data visualization website](https://gen-ai-dashboard-7ec2.onrender.com/index.html) in HTML, CSS, and JavaScript to communicate study methodology and findings to a non-technical public audience
   - Co-authored a peer-reviewed publication presented at Stanford's TETHICON Conference: [Generating the Modal Worker: A Cross-Model Audit of Race and Gender in LLM-Generated Personas Across 41 Occupations](https://dl.acm.org/doi/10.1145/3805689.3812221?__cf_chl_f_tk=vfGYrvqPVtTfxZfn.XrQpJaKupyl6Qs6DLwZzMYhE40-1783137887-1.0.1.1-_hfo.vU.paU0NpYOlDlMg2kyLnqqbigo.XI31zXYQq8).
   - Contributions can be found at project [repository](https://github.com/scuhci/genai-bias)
 
-- **Valverus — AI Engineer Intern** (Santa Clara, CA | Nov. 2024 – Aug. 2025)
+- **Valverus — AI Engineer Intern** | Santa Clara, CA | Nov. 2024 – Aug. 2025
   - About the company: Valverus is a consulting startup that targets private equity firms with AI-informed insights into future investments
   - Architected a production-grade RAG agent powered by a vector database (PineconeDB) to deliver real-time intelligence on emerging technologies and investment opportunities across 10+ industry verticals
   - Built automated data ingestion pipelines in Python using LangChain to collect, chunk, embed, and index 100+ industry and research articles weekly, maintaining a continuously fresh knowledge base
@@ -57,7 +57,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
   - Containerized the full application stack with Docker and configured Kubernetes manifests for orchestration, reducing environment setup time by 70%
 
 
-- **SCU AI Collaborate — Workshop Coordinator** (Santa Clara, CA | Oct. 2024 – Dec. 2025)
+- **SCU AI Collaborate — Workshop Coordinator** | Santa Clara, CA | Oct. 2024 – Dec. 2025
   - Coordinated with Adobe and NVIDIA to organize 3+ hackathons drawing 100+ participants each
   - Designed weekly workshops and seminars featuring guest speakers from Amazon, Apple, NVIDIA, etc. and attended by 50+ recurring members
   - Organized and facilitated the AI Summit — SCU's largest student-run event — drawing 700+ student and industry attendees
