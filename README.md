@@ -1,7 +1,7 @@
 Hi, I'm Aadi! I’m passionate about data science, analysis, engineering, and AI/ML.  
 Here, you’ll find my projects, experience, and ways to connect with me.
 
-<img src="assets/img.jpeg" width="400" alt="Aadi Sudan" style="border-radius: 50%;">
+<img src="assets/img.jpeg" width="400" alt="Aadi Sudan">
 
 ---
 
