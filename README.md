@@ -79,7 +79,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 - **Biomedical Diagnosis Chatbot**
   - **Stack:** TinyLlama 1.1B, LoRA, PEFT, Bitsandbytes, PyTorch, HuggingFace, FastAPI, HTML/CSS/JS
   - Fine-tuned TinyLlama 1.1B on a biomedical instruction-response dataset for clinical text generation, then built a full inference and benchmarking pipeline to optimize and profile performance across hardware targets.
-    - Fine-tuned with LoRA adapters and 4-bit quantization (PEFT + Bitsandbytes), achieving **0.874 mean BERTScore F1** and **ROUGE-L 0.228** with a 3x reduction in model size
+    - Fine-tuned with LoRA adapters and 4-bit quantization (PEFT + Bitsandbytes), achieving **0.89 mean BERTScore F1** and **ROUGE-L 0.228** with a 3x reduction in model size
     - Built FastAPI backend with real-time streaming endpoints and an interactive HTML/CSS/JS frontend for clinical Q&A deployment
     - Engineered a multi-target inference benchmarking pipeline profiling CPU vs. GPU execution across 5 biomedical prompts × 30 timed runs, achieving a **12.2x latency reduction** on NVIDIA T4 GPU (16,609ms → 1,364ms mean inference time)
     - Used PyTorch Profiler to identify matrix multiplication via Cutlass WMMA tensor cores as the dominant compute bottleneck at 64.9% of total CUDA time, enabling targeted optimization analysis
