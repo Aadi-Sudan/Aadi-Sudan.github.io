@@ -26,7 +26,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 - **Languages:** Python, R, SQL, PostgreSQL, MySQL, C++, Java, JavaScript, HTML, CSS, Bash
 - **ML/Data:** PyTorch, TensorFlow, HuggingFace Transformers, PEFT/LoRA, Bitsandbytes, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, OpenCV, spaCy, LangChain
-- **Tools/Infrastructure:** AWS, Docker, Kubernetes, Git, FastAPI, Flask, Firebase, PineconeDB, DynamoDB, CI/CD, REST APIs, Linux, Locust, pytest
+- **Tools/Infrastructure:** AWS, Docker, Kubernetes, Git, FastAPI, Flask, Firebase, ChromaDB, DynamoDB, CI/CD, REST APIs, Linux, Locust, pytest
 - **Certifications:** AWS Certified Cloud Practitioner, [Google AI Essentials](https://coursera.org/share/cf48e32919ecc68bea4c86b18d27abdc)
 
 ---
