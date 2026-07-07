@@ -50,7 +50,7 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 - **Valverus — AI Engineer Intern** | Santa Clara, CA | Nov. 2024 – Aug. 2025
   - About the company: Valverus is a consulting startup that targets private equity firms with AI-informed insights into future investments
-  - Architected a production-grade RAG agent powered by a vector database (PineconeDB) to deliver real-time intelligence on emerging technologies and investment opportunities across 10+ industry verticals
+  - Architected a production-grade RAG agent powered by a vector database (ChromaDB) to deliver real-time intelligence on emerging technologies and investment opportunities across 10+ industry verticals
   - Built automated data ingestion pipelines in Python using LangChain to collect, chunk, embed, and index 100+ industry and research articles weekly, maintaining a continuously fresh knowledge base
   - Optimized embedding and retrieval configurations through systematic ablation testing, improving retrieval precision by 28% over baseline TF-IDF approaches
   - Refactored core retrieval and indexing modules, improving query throughput by 35% and reducing average API response latency from 1.8s to under 600ms
