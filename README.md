@@ -16,6 +16,8 @@ Here, you’ll find my projects, experience, and ways to connect with me.
 
 ## Education
 
+- **Georgia Institute of Technology** *(2026 - 2027)*
+  - Master's of Science in Analytics
 - **Santa Clara University** *(2022 – 2026)*  
   - Bachelor's of Science in Computer Science
   - Minor in Mathematics
